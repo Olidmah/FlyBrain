@@ -1,0 +1,8 @@
+flybrain_accounts.json
+flybrain_learning.json
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+*.spec
